@@ -1,0 +1,15 @@
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\MoviesOnline.Data.dll.config
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\MoviesOnline.Data.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\MoviesOnline.Data.pdb
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.csproj.CopyComplete
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.dll
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.pdb
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.Migrations.movies_created.resources
+C:\Users\Jose\source\repos\MoviesOnline\MoviesOnline.Data\obj\Debug\MoviesOnline.Data.csproj.GenerateResource.cache
